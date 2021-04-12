@@ -1,4 +1,7 @@
 # Doppler_for_AerospaceResearch
+This code is taken from https://github.com/aerospaceresearch/orbitdeterminator
+
+This is the project for GSoC 2021
 Currently the Doppler code consists of bare minimum for the LEO. Thus the project would aim at the following completion of tasks 
   1. Writing the propagation code for different orbits (MEO, GEO, Lunar)
   2. Designing the signal propagation model and integrating it with the orbit propagation code, 
